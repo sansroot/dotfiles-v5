@@ -1,0 +1,1 @@
+install polybar and place the folder at ~/.config/

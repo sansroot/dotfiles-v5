@@ -1,0 +1,7 @@
+general.import = [
+  "/usr/lib/node_modules/alacritty-themes/themes/Catppuccin-Mocha.toml"
+]
+
+
+[font]
+size = 10
