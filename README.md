@@ -28,8 +28,11 @@ Autotiling: pacman -S autotiling (install it from distro's repository)
 
 ------------If you have any doubts, you can ask me in the "issues" section------------
 
-![image](https://github.com/user-attachments/assets/26bfe450-13b2-4af0-a8c6-0c49cdffe763)
-![image](https://github.com/user-attachments/assets/ef88b6a9-bcd7-4b42-91d2-efc7f1d2a926)
-![image](https://github.com/user-attachments/assets/afbc1a0e-bcde-4970-8f29-847aa1c42ec9)
+![image](https://github.com/user-attachments/assets/84d54f07-870f-4351-8c55-c51485cd00e2)
+![image](https://github.com/user-attachments/assets/266b254f-3da2-4eae-828b-37c053d5ee66)
+![image](https://github.com/user-attachments/assets/33561bc4-622a-4426-97a4-60cee80dbcdc)
+
+
+
 
 
