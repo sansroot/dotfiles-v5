@@ -26,6 +26,12 @@ Catppuccin for Rofi: https://github.com/catppuccin/rofi?tab=readme-ov-file (CLI 
 
 Autotiling: pacman -S autotiling (install it from distro's repository)
 
+##############################################################################
+
+apple keyboard path to configure keys: /sys/bus/hid/drivers/apple/module/parameters
+
+input remapper (lock key to delete key on magic keyboard): yay -S input-remapper-git
+
 ------------If you have any doubts, you can ask me in the "issues" section------------
 
 ![image](https://github.com/user-attachments/assets/26bfe450-13b2-4af0-a8c6-0c49cdffe763)
