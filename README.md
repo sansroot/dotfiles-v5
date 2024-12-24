@@ -31,6 +31,7 @@ Autotiling: pacman -S autotiling (install it from distro's repository)
 apple keyboard path to configure keys: /sys/bus/hid/drivers/apple/module/parameters
 
 input remapper (lock key to delete key on magic keyboard): yay -S input-remapper-git
+sudo systemctl enable input-remapper
 
 ------------If you have any doubts, you can ask me in the "issues" section------------
 
